@@ -1,0 +1,13 @@
+# Data Folders
+test
+train
+
+# Trained Files
+trained_features.pkl
+trained_keywords.pkl
+trained_texts.pkl
+vectorizer.pkl
+
+# Misc.
+.venv
+.DS_Store
